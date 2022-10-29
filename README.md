@@ -2,6 +2,9 @@
 - 👀 I’m interested in Cats, Dogs and Technology
 - 📫 How to reach me Issabelpalacios@gmail.com +56938854308
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuki2610)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=zuki2610&show_icons=true&theme=dark"
