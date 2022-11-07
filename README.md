@@ -5,6 +5,7 @@
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=ff0000)
 ![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?logo=bootstrap&style=flat)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=8E24AA)
+![](https://img.shields.io/badge/scss-informational?style=flat&logo=css3&logoColor=white&color=FFC0CB)
 
 ## 📈 Github Stats
 
