@@ -3,10 +3,10 @@
 ## Hi, I'm Isabel Palacios 🤘🏻
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=ff0000)
-![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?logo=bootstrap&style=flat)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=8E24AA)
-![](https://img.shields.io/badge/Scss-informational?style=flat&logo=css3&logoColor=white&color=cf649a)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=css3&logoColor=white&color=808080)
+![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?style=flat&logo=bootstrap&logoColor=white&color=8E24AA)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=5a5a5a)
+![](https://img.shields.io/badge/Scss-informational?style=flat&logo=scss3&logoColor=white&color=cf649a)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma3&logoColor=white&color=808080)
 
 ## 📈 Github Stats
 
