@@ -1,6 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=zuki2610&style=flat&color=blue)
+<div> 
+ <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=aaaaaa&center=true&vCenter=true&width=435&lines=Hi,++I'm+Isabel+Palacios" alt="Typing SVG" /></a>
+ </p>
+  <h3 align="center"> Welcome to the Jungle
+   </h3>
+</div>
 
-## Hi, I'm Isabel Palacios 🤘🏻
+
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?style=flat&logo=bootstrap&logoColor=white&color=8E24AA)
