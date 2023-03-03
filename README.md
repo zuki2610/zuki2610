@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=f0DB4f)
 ![](https://img.shields.io/badge/Scss-informational?style=flat&logo=scss3&logoColor=white&color=cf649a)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma3&logoColor=white&color=808080)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=B0E0E6)
 
 ## 📈 Github Stats
 
