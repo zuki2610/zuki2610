@@ -13,11 +13,14 @@
 ![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?style=flat&logo=bootstrap&logoColor=white&color=8E24AA)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=5a5a5a)
 ![](https://img.shields.io/badge/Js-informational?style=flat&logo=javascript&logoColor=white&color=f0DB4f)
-![](https://img.shields.io/badge/Scss-informational?style=flat&logo=scss3&logoColor=white&color=cf649a)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma3&logoColor=white&color=808080)
+![](https://img.shields.io/badge/Scss-informational?style=flat&logo=SASS&logoColor=white&color=cf649a)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=808080)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=B0E0E6)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=03C04A)
-
+![](https://img.shields.io/badge/Postgre-informational?style=flat&logo=PostgreSQL&logoColor=white&color=f0DB4F)
+![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.JS&logoColor=white&color=0000FF)
+![](https://img.shields.io/badge/Mongodb.js-informational?style=flat&logo=MongoDB&logoColor=white&color=03C04A)
+![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=cf649a)
 ## 📈 Github Stats
 
 ![Zuki2610's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuki2610&show_icons=true&theme=radical&count_private=true&show_icons=true)
