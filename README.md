@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.JS&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/Mongodb.js-informational?style=flat&logo=MongoDB&logoColor=white&color=03C04A)
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=cf649a)
+![](https://img.shields.io/badge/Quasar-informational?style=flat&logo=Quasar&logoColor=white&color=B0E0E6)
+
 ## 📈 Github Stats
 
 ![Zuki2610's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuki2610&show_icons=true&theme=radical&count_private=true&show_icons=true)
