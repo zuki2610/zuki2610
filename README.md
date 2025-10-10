@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/Mysql-informational?style=flat&logo=MySQL&logoColor=white&color=cf649a)
 ![](https://img.shields.io/badge/Quasar-informational?style=flat&logo=Quasar&logoColor=white&color=B0E0E6)
 ![](https://img.shields.io/badge/-Odoo-color=8E24AA?style=flat&logo=Odoo&logoColor=white&color=8E24AA)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=f0DB4F)
 
 ## 📈 Github Stats
 
