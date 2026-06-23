@@ -27,10 +27,13 @@
 
 ## 📈 Github Stats
 
-![Zuki2610's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuki2610&show_icons=true&theme=radical&count_private=true&show_icons=true)
+## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuki2610&langs_count=8&theme=radical)](https://github.com/sebavidal10/github-readme-stats)
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zuki2610?cardType=level-alternate&theme=github-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuki2610&theme=vue-dark&layout=compact)
+
+---
 
 <!---
 zuki2610/zuki2610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
